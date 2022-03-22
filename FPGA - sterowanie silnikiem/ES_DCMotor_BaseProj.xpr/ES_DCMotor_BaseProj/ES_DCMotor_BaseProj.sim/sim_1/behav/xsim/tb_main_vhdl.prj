@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ES_DCMotor_BaseProj.srcs/sources_1/new/ES_DCMotor_Main.vhd" \
+"../../../../ES_DCMotor_BaseProj.srcs/sim_1/new/tb_main.vhd" \
+
+# Do not sort compile order
+nosort
