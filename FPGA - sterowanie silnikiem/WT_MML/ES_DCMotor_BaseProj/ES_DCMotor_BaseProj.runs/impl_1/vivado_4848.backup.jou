@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 29 17:08:21 2022
+# Process ID: 4848
+# Current directory: D:/ES_2022/WT_MML/ES_DCMotor_BaseProj/ES_DCMotor_BaseProj.runs/impl_1
+# Command line: vivado.exe -log ES_DCMotor_Main.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ES_DCMotor_Main.tcl -notrace
+# Log file: D:/ES_2022/WT_MML/ES_DCMotor_BaseProj/ES_DCMotor_BaseProj.runs/impl_1/ES_DCMotor_Main.vdi
+# Journal file: D:/ES_2022/WT_MML/ES_DCMotor_BaseProj/ES_DCMotor_BaseProj.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ES_DCMotor_Main.tcl -notrace
